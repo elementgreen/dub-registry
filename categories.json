@@ -15,6 +15,7 @@
 				{"name": "editor", "description": "Text editors"},
 				{"name": "game", "description": "Games"},
 				{"name": "graphics", "description": "Graphics editing"},
+				{"name": "multimedia", "description": "Multimedia"},
 				{"name": "network", "description": "Network tools"},
 				{"name": "photo", "description": "Photographic applications"},
 				{"name": "productivity", "description": "Office and productivity"},
